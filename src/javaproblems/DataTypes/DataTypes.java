@@ -1,4 +1,4 @@
-package java.DataTypes;
+package javaproblems.DataTypes;
 
 import java.lang.*;
 import java.util.*;

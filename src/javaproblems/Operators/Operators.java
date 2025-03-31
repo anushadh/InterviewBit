@@ -1,4 +1,4 @@
-package java.Operators;
+package javaproblems.Operators;
 
 import java.lang.*;
 import java.util.*;

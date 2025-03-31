@@ -1,4 +1,4 @@
-package java.IfElse;
+package javaproblems.IfElse;
 
 import java.lang.*;
         import java.util.*;

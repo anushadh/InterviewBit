@@ -1,4 +1,4 @@
-package java.BufferedReader;
+package javaproblems.BufferedReader;
 
 import java.lang.*;
 import java.io.BufferedReader;
